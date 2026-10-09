@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://guanche-lucent.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/guanche-lucent/guanche-lucent/main/profile-banner.png" alt="陈涵睿 · AI 产品作品集：从真实问题，到可用产品。点击打开个人作品集。" width="100%">
+    <img src="https://raw.githubusercontent.com/guanche-lucent/guanche-lucent/main/profile-banner-v2.png" alt="陈涵睿 · AI 产品作品集：从真实问题，到可用产品。点击打开个人作品集。" width="100%">
   </a>
 </p>
 
