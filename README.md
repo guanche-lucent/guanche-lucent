@@ -1,4 +1,33 @@
-<p align="center"><img src="https://raw.githubusercontent.com/guanche-lucent/guanche-lucent/main/profile-banner.svg" alt="观澈 Lucent · 产品、AI 与写作" width="100%"></p>
+<p align="center">
+  <a href="https://guanche-lucent.github.io/portfolio/">
+    <img src="https://raw.githubusercontent.com/guanche-lucent/guanche-lucent/main/profile-banner.png" alt="陈涵睿 · AI 产品作品集：从真实问题，到可用产品。点击打开个人作品集。" width="100%">
+  </a>
+</p>
+
+## 热门仓库
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">个人作品集 ↗</a></h3>
+<p>以档案袋为入口，呈现 AI 产品实践、个人介绍与文章。</p>
+<p><code>HTML</code> · <code>JavaScript</code> · <code>Three.js</code></p>
+<p><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">查看源码 →</a> · <a href="https://guanche-lucent.github.io/portfolio/">打开作品集 →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/guanche-lucent/reading-pet">读书养宠 ↗</a></h3>
+<p>将 PDF 阅读拆成小任务，以知识宠物串起阅读与复述；包含方案、PRD 与可点击原型。</p>
+<p><code>HTML</code> · <code>产品原型</code></p>
+<p><a href="https://github.com/guanche-lucent/reading-pet">查看仓库 →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/guanche-lucent/guanche-lucent">观澈 · 公开笔记 ↗</a></h3>
+<p>产品观察、AI 行业思考，以及持续实践中的文章与记录。</p>
+<p><code>Markdown</code> · <code>Learning in public</code></p>
+<p><a href="https://github.com/guanche-lucent/guanche-lucent">查看仓库 →</a></p>
+</td>
+</tr>
+</table>
 
 ## 最近写的
 
