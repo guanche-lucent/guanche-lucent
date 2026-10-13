@@ -9,13 +9,16 @@
 <table>
 <tr>
 <td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/open-design-skills-zh">中文设计技能导航 ↗</a></h4><p><sub>open-design-skills-zh</sub></p><p>按任务探索设计技能，附在线案例与精选技能试用。</p><p><sub>HTML · Agent Skills</sub></p><p><a href="https://github.com/guanche-lucent/open-design-skills-zh">查看仓库 →</a></p></td>
-<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">个人作品集 ↗</a></h4><p><sub>guanche-lucent.github.io</sub></p><p>AI 产品实践、个人介绍与文章，以档案袋为入口。</p><p><sub>HTML · JavaScript · Three.js</sub></p><p><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">查看仓库 →</a> · <a href="https://guanche-lucent.github.io/portfolio/">打开作品集 →</a></p></td>
-<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/reading-pet">读书养宠 ↗</a></h4><p><sub>reading-pet</sub></p><p>以知识宠物串起阅读与复述，包含方案、PRD 和可点击原型。</p><p><sub>HTML · 产品原型</sub></p><p><a href="https://github.com/guanche-lucent/reading-pet">查看仓库 →</a></p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/hulu-weather">呼噜天气 ↗</a></h4><p><sub>hulu-weather</sub></p><p>猫咪日常观察、今日签与关系反思，展示产品设计、界面与技术实现。</p><p><sub>公开展示 · 非开源项目</sub></p><p><a href="https://github.com/guanche-lucent/hulu-weather">查看仓库 →</a></p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/tri-model-pipeline">模型流水线 ↗</a></h4><p><sub>tri-model-pipeline</sub></p><p>方案、开发、验收分工，附编排脚本、提示词与复刻模板。</p><p><sub>Private · 仅授权用户可访问</sub></p><p><a href="https://github.com/guanche-lucent/tri-model-pipeline">查看仓库 →</a></p></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/tri-model-pipeline">模型流水线 ↗</a></h4><p><sub>tri-model-pipeline</sub></p><p>方案、开发、验收分工，附编排脚本、提示词与复刻模板。</p><p><sub>Private · 仅授权用户可访问</sub></p><p><a href="https://github.com/guanche-lucent/tri-model-pipeline">查看仓库 →</a></p></td>
 <td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/guanche-lucent">观澈 · 公开笔记 ↗</a></h4><p><sub>guanche-lucent</sub></p><p>产品观察、AI 行业思考，以及持续实践中的文章与记录。</p><p><sub>Markdown · Learning in public</sub></p><p><a href="https://github.com/guanche-lucent/guanche-lucent">查看仓库 →</a></p></td>
-<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent?tab=repositories">查看全部仓库 ↗</a></h4><p>项目、工具与实践记录。</p><p><a href="https://github.com/guanche-lucent?tab=repositories">打开仓库目录 →</a></p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">个人作品集 ↗</a></h4><p><sub>guanche-lucent.github.io</sub></p><p>AI 产品实践、个人介绍与文章，以档案袋为入口。</p><p><sub>HTML · JavaScript · Three.js</sub></p><p><a href="https://github.com/guanche-lucent/guanche-lucent.github.io">查看仓库 →</a> · <a href="https://guanche-lucent.github.io/portfolio/">打开作品集 →</a></p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/guanche-lucent/reading-pet">读书养宠 ↗</a></h4><p><sub>reading-pet</sub></p><p>以知识宠物串起阅读与复述，包含方案、PRD 和可点击原型。</p><p><sub>Private · 仅授权用户可访问</sub></p><p><a href="https://github.com/guanche-lucent/reading-pet">查看仓库 →</a></p></td>
+</tr>
+<tr>
+<td colspan="3" valign="top"><h4><a href="https://github.com/guanche-lucent?tab=repositories">查看全部仓库 ↗</a></h4><p>项目、工具与实践记录。</p><p><a href="https://github.com/guanche-lucent?tab=repositories">打开仓库目录 →</a></p></td>
 </tr>
 </table>
 
